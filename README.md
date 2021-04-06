@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gkhandake
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++20
 - 💞️ I’m looking to collaborate on C++, python, javascript, Typescript, nodejs, Angular, React, docker
 - 📫 How to reach me ...
 
