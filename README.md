@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gkhandake
+- 👋 Hi, I’m @gk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++20, GenAI, AI/ML
 - 💞️ I’m looking to collaborate on C++, python, AI/ML, GenAI, javascript, Typescript, nodejs, Angular, React, docker
